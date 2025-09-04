@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #header {
     background-color: green;
     color: black;
@@ -31,4 +32,39 @@ img {
 
 #motivation h2 {
     color: black
+=======
+#header {
+    background-color: green;
+    color: black;
+    padding: 30px;
+    font-style: bold;
+    text-align: center;
+}
+
+#tagline {
+    color: lightgray;
+    font-style: italic;
+    margin-top: 20px;
+    text-align: center;
+}
+
+img {
+    
+    }
+
+#content {
+    padding: 20 px
+}
+
+#section {
+    margin-bottom: 20px;
+}
+
+#about h2 {
+    color:black
+}
+
+#motivation h2 {
+    color: black
+>>>>>>> ff8608b6d9e208214922234015aabcce574dd4a8
 }
